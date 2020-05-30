@@ -1,6 +1,6 @@
 # flutter - Simple Expenses manager app
 
-testing purposes
+Expense recording app that shows up to a week with a chart bar
 
 ## Getting Started
 
